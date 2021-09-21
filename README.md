@@ -4,3 +4,5 @@ This is E-Commerce Lab Repository
 Id:UG02-47-18-004
 
 Name: Mahmudul islam
+
+Email: mahmudulislamridoy06@gmail.com
